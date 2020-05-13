@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\bin\Debug\SetWPF.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\bin\Debug\SetWPF.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\bin\Debug\SetWPF.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF_MarkupCompile.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF_MarkupCompile.lref
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF.g.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\Set\SetWPF\obj\Debug\SetWPF.pdb
